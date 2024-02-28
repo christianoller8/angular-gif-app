@@ -1,4 +1,4 @@
-#Preview
+# Preview
 
 ![Captura de pantalla 2024-02-28 a las 16 44 29](https://github.com/christianoller8/angular-gif-app/assets/105523995/ab90698b-d50b-4a00-a1ce-fe21f3e6531d)
 
